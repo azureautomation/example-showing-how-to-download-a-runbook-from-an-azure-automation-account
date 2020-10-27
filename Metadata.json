@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 3332,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/example-showing-how-to-download-a-runbook-from-an-azure-automation-account/master/import_child_runbook.py",
+    "DownloadCount": 777,
+    "Id": "Example-showing-how-to-a-af0782d5",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 140,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-8-14T00:00:00",
+    "RunbookKind": 9,
+    "RunbookKindString": "Python",
+    "Summary": "Example showing how to download a runbook from an automation account so you can call it from a parent python script.",
+    "Title": "Example showing how to download a runbook from an Azure Automation account",
+    "UpdatedDate": "2018-8-14T00:00:00",
+    "Url": "https://github.com/azureautomation/example-showing-how-to-download-a-runbook-from-an-azure-automation-account",
+    "UserTags": "Runbook, Azure Automation, Python"
+}
